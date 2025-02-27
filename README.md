@@ -1,7 +1,7 @@
 # I’m Gopi, a passionate web developer from India! 👋🏼:
 ## 🌟 Full Stack Enthusiast | Frontend Developer | Tech Innovator
 🎓 Graduate from VR Siddhartha Engineering College<br>
-<br>💡 Always Learning! Currently working on Data Structures & Algorithms in Java, deepening my knowledge of Next.js, and studying System Design for better architecture.<br><br>💬 Let's connect! Ask me about JavaScript, ReactJS, Frontend Development, AI, or anything tech-related.<br><br>📫 Reach me at: gopichand4520@gmail.com<br><br>⚡ Fun fact: When I’m not coding, I’m diving into the latest tech trends through blogs and articles to stay ahead in the ever-evolving tech landscape.
+<br>💡Always Learning! Currently working on Data Structures & Algorithms in Java, deepening my knowledge of Next.js, and studying System Design for better architecture.<br><br>💬 Let's connect! Ask me about JavaScript, ReactJS, Frontend Development, AI, or anything tech-related.<br><br>📫 Reach me at: gopichand4520@gmail.com<br><br>⚡ Fun fact: When I’m not coding, I’m diving into the latest tech trends through blogs and articles to stay ahead in the ever-evolving tech landscape.
 
 
 ## 🌐 Socials:
